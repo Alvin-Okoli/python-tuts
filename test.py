@@ -63,3 +63,11 @@ print("Enjoy your day!")
 # Tenary operator
 result = "It's a cold day."if temperature < 15 else "It's a hot day."
 print(result)
+
+# Logical operators and, or, not
+
+# loops
+for x in range(1, 11):
+    if x % 2 == 0:
+        print(x)
+print("Done with loop")
